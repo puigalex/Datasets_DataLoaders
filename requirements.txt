@@ -1,0 +1,14 @@
+
+certifi==2022.12.7
+charset-normalizer==3.0.1
+munkres==1.1.4
+numpy 
+opencv-python==4.7.0
+pandas==1.5.3
+pathlib==1.0.1
+pytz==2022.7.1
+scikit-learn
+scipy==1.10.0
+torch==1.12.1
+torchsummary==1.5.1
+torchvision==0.14.1
