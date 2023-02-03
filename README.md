@@ -1,6 +1,6 @@
 # Datasets y DataLoaders en Pytorch
 
-Este repositorio es acompañamiento del video [Datasets y Dataloaders en Pytorch]().
+Este repositorio es acompañamiento del video [Datasets y Dataloaders en Pytorch](https://youtu.be/5Dw0gUG9uhw).
 
 # Instalación
 Lo unico que se debe de hacer es correr el siguiente comando para instalar los requerimientos y despues abrir main.ipynb
